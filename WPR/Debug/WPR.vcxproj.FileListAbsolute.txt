@@ -1,0 +1,2 @@
+C:\Users\and\source\repos\WPR\Debug\WPR.exe
+C:\Users\and\source\repos\WPR\Debug\WPR.pdb
